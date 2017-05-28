@@ -1,2 +1,4 @@
 проба пера
-MessageBox.Show("hot Dog");
+{
+	MessageBox.Show("hot Dog");
+}
